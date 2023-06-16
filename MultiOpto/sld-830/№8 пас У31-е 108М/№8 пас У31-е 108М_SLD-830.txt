@@ -1,1 +1,0 @@
-Time 	 Current, mA 	 F.Voltage, V 	 Out.Pow, mW 	 
